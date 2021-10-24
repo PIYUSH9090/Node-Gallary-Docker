@@ -13,7 +13,7 @@ Now your dockker image is ready so expose it on port via this command
 docker run -dp 8080:8080 node-gallary
 ```
 
-Then try this [!link](http://localhost:8080/).
+Then try this ![link](http://localhost:8080/).
 You will get your photo gallary from uploads folder in docker.
 
 
